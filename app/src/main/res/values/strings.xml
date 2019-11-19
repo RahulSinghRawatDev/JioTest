@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">JioTest</string>
+    <string name="title_activity_input">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_mobileno">Mobile Number</string>
+    <string name="prompt_firstname">First Name</string>
+    <string name="prompt_lastname">Last Name</string>
+    <string name="prompt_amount">Please enter amount</string>
+
+
+    <string name="action_sign_in">save</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <string name="firstname_validation">"Please enter a valid First Name"</string>
+    <string name="lastname_validation">"Please enter a valid lastname"</string>
+    <string name="mobile_validation">"Please enter a valid mobile number"</string>
+    <string name="mobileten_validation">"Please enter a 10 digit mobile number"</string>
+    <string name="email_validation">"Please enter a valid email"</string>
+
+</resources>
